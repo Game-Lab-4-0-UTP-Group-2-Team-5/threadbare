@@ -1,6 +1,5 @@
-[gd_scene load_steps=5 format=3 uid="uid://bpnb6hfx88ac"]
+[gd_scene load_steps=4 format=3 uid="uid://bpnb6hfx88ac"]
 
-[ext_resource type="Script" path="res://scenes/quests/story_quests/Where_we_at/5_Where_we_at_mistery/minijuego_terminal.gd" id="1_dmjd5"]
 [ext_resource type="Texture2D" uid="uid://b48qkq734dpn8" path="res://assets/minijuego_terminal/terminal_background.png" id="2_kexjp"]
 [ext_resource type="Texture2D" uid="uid://cjjc384ef0h7o" path="res://assets/minijuego_terminal/icon_folder.png" id="3_e5mao"]
 [ext_resource type="Texture2D" uid="uid://iu8bckk3w0j8" path="res://assets/minijuego_terminal/icon_file.png" id="4_mgiqq"]
@@ -16,7 +15,6 @@ offset_right = -7.0
 offset_bottom = 3.0
 grow_horizontal = 2
 grow_vertical = 2
-script = ExtResource("1_dmjd5")
 
 [node name="PanelFondo" type="TextureRect" parent="."]
 layout_mode = 0
